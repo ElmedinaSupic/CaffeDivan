@@ -28,7 +28,7 @@ if (isset($_GET['logout'])) {
 </head>
 <body>
 	<div class="header">
-		<h2> <p><button style="background-color: #669999" onclick=" window.open('pocetna.html','_blank')">Početna stranica<style type="text/css" float="left" display="flex";
+		<h2> <p><button style="background-color: #669999" onclick=" window.open('index.html','_blank')">Početna stranica<style type="text/css" float="left" display="flex";
   align-items="center";
   justify-content="center";></style></button> </p></h2>
 </div>
